@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Data files
+data/*.txt
+
+# CodeCarbon output
+*.csv
+
+# Logs
+*.log
+powermetrics_log.txt
+
+# Images generated from plots
+*.png
